@@ -1,0 +1,3177 @@
+HTML整理题库
+
+1.单选题
+网页快速换肤是如何做到的？
+
+A 不同的html结构，相同的css样式表
+B 相同的html结构，不同的css样式表
+C 不同的html结构，不同的css样式表
+D 相同的html结构，相同的css样式表
+参考答案： B
+
+2.单选题
+以下HTML代码中，哪个是正确引用外部样式表的方法？（ ）
+
+A <style src="mystyle.css">
+B <link rel="stylesheet" type="text/css" href="mystyle.css">
+C <stylesheet>mystyle.css</stylesheet>
+参考答案： B
+
+3.单选题
+下面说法错误的是( )。
+
+A CSS 样式表可以将格式和内容分离
+B CSS 样式表可以控制页面的布局
+C 一个样式表文件只能在一个页面中起作用
+D 一个样式表文件可以在多个页面中引用
+参考答案： C
+
+4.单选题
+在HTML文档中，引用外部样式表的正确位置是（ ）
+
+A 文档的末尾
+B <head>部分
+C 文档的顶部
+D <body>部分
+参考答案： B
+
+5.单选题
+链接到外部样式应该使用的标记是（ ）。
+
+A <link>
+B <style>
+C <object>
+D <head>
+参考答案： A
+
+6.单选题
+CSS选择符的样式规则之间使用（）符号分隔？
+
+A ？
+B ，
+C ；
+D 。
+参考答案： C
+
+7.单选题
+要在标记中同时引用两个class类选择符c1和c2，需要使用的代码是（ ）
+
+A <span class="c1，c2">
+B <span class="c1；c2">
+C <span class="c1 c2">
+D <span class="c1" class="c2">
+参考答案： C
+
+8.单选题
+在样式定义中要使用一个ID样式，应使用（）符号作为ID名称的前缀。
+
+A .
+B *
+C ?
+D #
+参考答案： D
+
+9.单选题
+怎样给所有的h1标签添加背景颜色?（）
+
+A .h1{background-color:#FFFFFF}
+B h1{background-color:#FFFFFF;}
+C h1.all{background-color:#FFFFFF}
+D #h1{background-color:#FFFFFF}
+参考答案： B
+
+10.单选题
+根据以下的HTML代码：h1{color:”limegreen”；font-family:”arial”}可以知道（ ）
+
+A 此段代码是一个类选择器
+B 选择器的名称是color
+C { }部分是对h1这个选择器的样式说明
+D limegreen和font-family都是样式值
+参考答案： C
+
+11.单选题
+下列哪个css属性能够设置盒模型的内部填充为上10、右20、下30、左40（ ）
+
+A padding:10px 20px 30px 40px
+B padding:10px 1px
+C padding:5px 20px 10px
+D padding:10px
+参考答案： A
+
+12.单选题
+下面说法错误的是( )。
+
+A CSS 样式表可以将格式和内容分离
+B CSS 样式表可以控制页面的布局
+C 样式表只能在页面的head部分引用
+D 一个样式表文件可以在多个页面中引用
+参考答案： C
+
+13.单选题
+在html文件夹中存在页面文件page.html，在其内部存在代码<  img src="../images/img1.jpg"   >，根据代码中的路径标识可以识别images文件夹与html文件夹的位置关系是（   ）。
+
+A 两者位于同一个父文件夹中
+B images是html的父文件夹
+C html是images的父文件夹
+D 两者之间没有任何关系
+参考答案： A
+
+14.单选题
+在IE6以上浏览器中使用W3C标准时，设置某个块级元素的样式为{width:600px； margin:30px； padding:20px； border:2px solid #f00；}，该块级元素的总宽度是（ ）
+
+A 600px
+B 664px
+C 704px
+D 684px
+参考答案： C
+
+15.单选题
+下列路径中属于绝对路径的是（ ）。
+
+A http://www.sina.com/index.html
+B /student/webpage/10.html
+C 10.html
+D webpage/10.html
+参考答案： A
+
+16.单选题
+关于外边距（margin），以下说法错误的是（）
+
+A 当我们上下排列一系列规则的块级元素（如段落P）时，设置了块元素的外边距，段落之间就会产生双倍的距离。
+B 外边距的重叠只产生在普通流文档的上下外边距之间，行内元素实际上不占上下外边距，浮动元素的外边距也不会合并。
+C 块级元素的垂直相邻外边距会合并，水平边距永远不会重合。
+D 外边距重叠是指两个垂直相邻的块级元素，当上下两个边距相遇时，外边距会产生重叠现象，且重叠后的外边距，等于其中较大者。
+参考答案： A
+
+17.单选题
+哪个样式属性可用来改变背景颜色？（ ）
+
+A text-color
+B bgcolor
+C color
+D background-color
+参考答案： D
+
+18单选题
+行内元素可以通过哪个样式及属性设置变为块级元素（ ）
+
+A display:none；
+B display:inline；
+C display:block；
+D width:200px；
+参考答案： C
+
+19.单选题
+下面哪个不属于边框样式属性（ ）
+
+A width
+B color
+C style
+D position
+参考答案： D
+
+20.单选题
+若某个父元素中只有一个子元素，如何定义其宽度，保证其总宽度与父元素内容区同宽
+
+A width:100%;
+B width:auto;
+C width:500px;
+D width:100vw;
+参考答案： B
+
+21.单选题
+下列哪个css属性能够设置盒模型的填充为10、20、30、40（顺时针方向）（ ）
+
+A padding:10px 20px 30px 40px
+B padding:10px 1px
+C padding:5px 20px 10px
+D padding:10px
+参考答案： A
+
+22.单选题
+下列哪个选项的CSS语法是正确的？（ ）
+
+A body:color=black
+B {body:color=black(body}
+C body {color: black}
+D {body；color:black}
+参考答案： C
+
+23.单选题
+p span{}样式表中使用的是哪种类型的选择符
+
+A 子对象选择符
+B 后代选择符
+C 相邻选择符
+D 属性选择符
+参考答案： B
+
+24.单选题
+p>span{}样式表中使用的是哪种类型的选择符
+
+A 子对象选择符
+B 包含选择符
+C 相邻选择符
+D 属性选择符
+参考答案： A
+
+25.多选题
+关于样式表的定义，下面描述正确的是哪个
+
+A p>span{}，定义的是span元素后面相邻段落元素的样式
+B span,p{}，定义的是span元素和段落元素的样式
+C #p1, #p2 span{}定义的是id为p1和p2两个段落下面span元素的样式
+D #p1, #p2 span{}样式表整体上使用的是群组选择符
+参考答案： B  D
+
+26.单选题
+id选择器的前缀符号是
+
+A $
+B #
+C 圆点
+D ？
+参考答案： B
+
+27.单选题
+CSS的全称是（ ）
+
+A Computer Style Sheets
+B Cascading Style Sheets
+C Creative Style Sheets
+D Colorful Style Sheets
+参考答案： B
+
+28.多选题
+层叠样式表中层叠的概念包括下面哪些说法
+
+A 若内外层标记中的样式出现冲突，则内层起作用
+B 若内外层标记中样式没有冲突，对内层而言要叠加所有样式效果
+C 对同一个选择符而言，后定义的样式优先于先定义的样式
+D 对某个元素而言，内联样式的优先级高于其它所有样式
+参考答案： A  B  C  D
+
+29.多选题
+基本选择符不包含下面哪几个？
+
+A 群组选择符
+B id选择符
+C 标记名选择符
+D 包含选择符
+参考答案： A  D
+
+30.多选题
+下面能够设置文本颜色为红色的选项有哪些？
+
+A color:#ff0000;
+B color:#f00;
+C color:rgb(100%,0,0);
+D color:rgb(255,0,0);
+参考答案： A  B  D
+
+31.多选题
+关于文本相关的样式几个样式属性，下面描述中正确的有哪些
+
+A word-break:break-all;可以设置英文断行
+B word-spacing能够设置英文单词之间的间距，也能设置汉字之间的间距
+C letter-spacing能够设置英文字母之间的间距，也能设置汉字之间的间距
+D word-wrap:break-word;可以设置英文断行
+参考答案： A  C  D
+
+32.多选题
+下面哪些类型的样式定义需要使用样式表？
+
+A 内联样式
+B 内嵌样式
+C 外部样式
+参考答案： B  C
+
+33.多选题
+关于选择符，下面描述正确的有哪些？
+
+A 使用标记名选择符定义的样式，将对页面中所有该标记起作用
+B 页面中的元素id属性取值是唯一的，使用id选择符定义的样式只对特定元素起作用
+C 类选择符定义之后，可以在页面中根据需要引用
+D 群组选择符定义之后，其中每个选择符都可以独立增加新的样式定义
+E div span{}定义的样式，只对div的直接子元素span有效
+参考答案： A  B  C  D
+
+34.多选题
+关于类选择符，下面描述正确的有哪些
+
+A 定义时，前面要有一个#号
+B 在标记中需要使用class属性引用
+C 可以在多个标记中引用
+D 只能在一个标记中引用
+参考答案： B  C
+
+35.多选题
+下面哪几组是后代选择器？
+
+A p span{}
+B div.p1{}
+C .p1 span{}
+D p1 span{}
+参考答案： A  C
+
+36.多选题
+关于鼠标指针样式属性cursor取值，下面说法正确的有哪些
+
+A 取值pointer可以设置小手状
+B 取值url()形式，可以将任意类型图片设置为鼠标指针效果
+C 取值crosshair，设置交叉十字指针效果
+D 可以使用逗号间隔跟定多个取值，若前面取值无效则向后递推
+参考答案： A  C  D
+
+37.判断题
+CSS中优先级的顺序为!importan>标签选择符>id选择符>类选择符
+
+A 正确
+B 错误
+参考答案： B
+
+38.单选题
+以下方法中，不属于CSS定义红色的方法是
+
+A #f00
+B #255，0，0
+C rgb(255，0，0)
+D red
+参考答案： B
+
+39.单选题
+如何在一个段落中同时引用类名p1和p2？
+
+A p class="p1" class="p2"
+B p class="p1,p2"
+C p class="p1 p2"
+D p class="p1;p2"
+参考答案： C
+
+40.单选题
+若某个div的样式代码为{width:300px; height:80px; border:1px solid #00f;}，内有一行没有使用任何标记定界的纯文本，要设置该文本在div内部垂直方向居中，需要增加哪个样式定义？
+
+A vertical-align:middle;
+B text-align:center;
+C line-height:80px;
+D vertical-align:center;
+参考答案： C
+
+41.单选题
+下面哪一组不是群组选择符样式表？
+
+A p1, span{}
+B h2, p, .sp1{}
+C p span{}
+D #p1,span{}
+参考答案： C
+
+42.单选题
+下面说法错误的是( )。
+
+A CSS 样式表可以将格式和内容分离
+B CSS 样式表可以控制页面的布局
+C 一个样式表文件只能在一个页面中起作用
+D 一个样式表文件可以在多个页面中引用
+参考答案： C
+
+43.单选题
+在HTML文档中，引用外部样式表的规范位置是？（ ）
+
+A 文档的末尾
+B 文档首部
+C 文档的顶部
+D 文档主体
+参考答案： B
+
+44.单选题
+下列哪一项不是盒子的边框样式属性
+
+A border-top
+B border-style
+C border-top-style
+D border-style-top
+参考答案： D
+
+45.单选题
+下面不属于CSS样式类型的是（ ）。
+
+A 索引样式
+B 行内样式
+C 内嵌样式
+D 链接外部样式
+参考答案： A
+
+46.单选题
+标记内部使用style=设置的样式称为
+
+A 内联样式
+B 内嵌样式
+C 外部样式
+参考答案： A
+
+47.单选题
+在html文件夹中存在页面文件page.html，在其内部存在代码<  img src="../images/img1.jpg"   >，根据代码中的路径标识可以识别images文件夹与html文件夹的位置关系是（   ）。
+
+A 两者位于同一个父文件夹中
+B images是html的父文件夹
+C html是images的父文件夹
+D 两者之间没有任何关系
+参考答案： A
+
+48.单选题
+在XHTML页面中制作一个图像，想要在鼠标指向这个图像时浮出一条提示信息，应该使用的属性是（）。
+
+A alt
+B src
+C title
+D msg
+参考答案： C
+
+49.单选题
+下面标记中属于行内标记的是()
+
+A <table>
+B <img>
+C <p>
+D <div>
+参考答案： B
+
+50.单选题
+若要设置图片与同一行中文本之间的垂直对齐关系，需要使用的样式属性是()
+
+A text-align
+B target
+C width
+D vertical-align
+参考答案： D
+
+51.单选题
+插入图像文件时，文件类型不能是以下哪种类型（）
+
+A bmp
+B jpg
+C gif
+D png
+参考答案： A
+
+52.单选题
+在图片标记中，必须要设置的属性是()
+
+A href
+B alt
+C width
+D src
+参考答案： D
+
+53.单选题
+插入图像时，建议使用哪一种路径方式（）
+
+A 相对路径
+B 绝对路径
+C 根路径
+D 引用路径
+参考答案： A
+
+54.单选题
+以下不属于背景图片样式属性的是（）
+
+A background-repeat   
+B background-color  
+C background-width
+D background-position
+参考答案： C
+
+55.单选题
+若某个div的样式代码为{width:300px; height:80px; border:1px solid #00f;}，内有一行没有使用任何标记定界的纯文本，要设置该文本在div内部垂直方向居中，需要增加哪个样式定义？
+
+A vertical-align:middle;
+B text-align:center;
+C line-height:80px;
+D vertical-align:center;
+参考答案： C
+
+56.单选题
+样式属性取值量度单位中，哪个表示倍数关系？
+
+A px
+B pt
+C em
+D pc
+参考答案： C
+
+57.单选题
+样式属性line-height的作用是（ ）
+
+A 设置下划线
+B 设置文本行高
+C 设置缩进
+D 设置盒子的高度
+参考答案： B
+
+58.单选题
+若id为p1的段落的字号为12pt，下面哪个样式能够设置段落第一个字下沉占据2行的空间
+
+A #p1:first-line{font-size:24pt; }
+B #p1:first-letter{font-size:2em;}
+C #p1:first-letter{float:left;}
+D #p1:first-letter{font-size:24pt; float:left;}
+参考答案： D
+
+59.单选题
+下列样式定义字体为宋体、字体颜色为红色、斜体、大小20px、粗细800号，正确的定义是：（ ）
+
+A p {font-family:宋体；font-size:20px；font-weight:800；color:red； font-style:italic； }
+B p {font-family:20px； font-size:宋体； font-weight:800； color: red； font-style:italic； }
+C p {font-family:20px； font-size:800； font-weight:宋体； color:red； font-style:italic； }
+D p{font-family:800； font-size:20px； font-weight:red； color:italic； font-style:宋体；}
+参考答案： A
+
+60.单选题
+哪个CSS属性可设置文本的斜体效果（ ）
+
+A font-size
+B line-height
+C font-style
+D font-weight
+参考答案： C
+
+61.单选题
+样式定义中使用的注释格式是()
+
+A //...
+B <!--.....-->
+C /*...*/
+D \'...
+参考答案： C
+
+62.单选题
+标记<u>和< /u>的作用是()
+
+A 设置标记之间文本加下划线
+B 设置标记之间文本加粗
+C 设置标记之间文本斜体
+D 设置标记之间文本加删除线
+参考答案： A
+
+63.单选题
+设置文本加粗的样式属性是（）
+
+A font-weight
+B <strong>...</strong>
+C <b>....</b>
+D text-indent
+参考答案： A
+
+64.单选题
+网页中的特殊字符一般是以（）符号开始的
+
+A &
+B %
+C @
+D ~
+参考答案： A
+
+65.单选题
+下面哪一组样式属性都是与文本有关的（）
+
+A font-size， line-height， padding
+B text-decoration， height， font-style
+C font-weight， text-indent， line-height
+D float， padding， line-height
+参考答案： C
+
+66.单选题
+页面代码的注释格式是()
+
+A //...
+B <!--.....-->
+C /*...*/
+D \'...
+参考答案： B
+
+67.单选题
+下列描述中错误的是()
+
+A 使用浮动设置可以将行内元素变为块级元素
+B 文本行内框的高度是由样式属性line-height的取值决定的
+C line-height属性可对所有行内元素起作用
+D 设置文本加粗、斜体和下划线等效果的标记都是双标记
+参考答案： C
+
+68.单选题
+以下哪个标记可以设置上标文本（）
+
+A <sub>....</sub>
+B <sup>...</sup>
+C <b>....</b>
+D <s>....</s>
+参考答案： B
+
+69.单选题
+以下哪个单位既可以看作绝对单位也可以看作相对单位（）
+
+A em
+B ex
+C pt
+D px
+参考答案： D
+
+70.单选题
+以下方法中，不属于CSS定义红色的方法是：（ ）
+
+A #f00
+B #255，0，0
+C rgb(255，0，0)
+D red
+参考答案： B
+
+71.多选题
+关于鼠标指针样式属性cursor取值，下面说法正确的有哪些
+
+A 取值pointer可以设置小手状
+B 取值url()形式，可以将任意类型图片设置为鼠标指针效果
+C 取值crosshair，设置交叉十字指针效果
+D 可以使用逗号间隔跟定多个取值，若前面取值无效则向后递推
+参考答案： A  C  D
+
+72.单选题
+以下哪个不是标记< a >的常用属性（）
+
+A target
+B href
+C margin
+D title
+参考答案： C
+
+73.单选题
+以下哪个不是href属性常用链接地址（）
+
+A 完整url形式
+B 链接到外部文档、图像或多媒体文件
+C 同一页面的某一部分
+D 通配符*
+参考答案： D
+
+74.单选题
+以下不是超链接的类别的是（）
+A 内部链接
+B 文本链接
+C 锚点链接
+D 外部链接
+参考答案： B
+
+75.单选题
+下列哪一项表示超链接已访问过的伪类（）
+
+A a:hover
+B a:link
+C a:visited
+D a:span
+参考答案： C
+
+76.单选题
+以下是伪对象选择符的有（）
+
+A 群组选择符
+B first-line
+C 相邻选择符
+D 通配符
+参考答案： B
+
+77.单选题
+下列的HTML中哪个可以产生超链接（）
+
+A  <  a  >W3Schools.com<  >
+B  <   a     h  r  e  f  =   "   h  t  t  p : / / w  w  w . w  3  s  c  h  o  o  l   s . c o m    "  > <   /  a  >
+C <  a   h r e f  = "  h t t p : / / w w w . w 3 s c h o o l  s  .  com   "   >  --W  3  S c  h  o   o  l  s-- <  /a  >
+D http://www.w3schools.com
+参考答案： C
+
+78.单选题
+A文件夹与B文件夹是同级文件夹，其中A下有a.htm，B下有b.htm文件，现在我们希望在a.htm文件中创建超链接，链接到b.htm，应该在a.htm页面代码中如何描述链接内容？
+
+A b.htm
+B ././././B/b.htm
+C ../B/b.htm
+D ../../b.htm
+参考答案： C
+
+79.单选题
+我们想要为网页中的文字加上超链接，可以采用哪个标记达到要求（）
+
+A < link >
+B < href >
+C <a>
+D < b>
+参考答案： C
+
+80.单选题
+< a href = " #csust " >信息学院 < / a > 的作用是（）
+
+A 超链接到信息学院网页上
+B 超链接到本文件中csust处
+C 超链接暂时不被运行
+D 超链接到#csust网页上
+参考答案： B
+
+81.单选题
+超链接是一种（）关系
+
+A 一对一
+B 一对多
+C 多对一
+D 多对多
+参考答案： A
+
+82.单选题
+若要在页面中创建一个图形超链接，显示的图形为myhome.jpg，所链接的地址为http://www.baidutupian.com，以下用法中，正确的是（）
+
+A < a href=“http://www.baidutupian.com” >myhome.jpg< /a >
+B < a href=“http://www.baidutupian.com” >< img src=“myhome.jpg” >< /a >
+C < img src=“myhome.jpg” >< a  href=“http://www.baidutupian.com” >< /a >
+D < a href=http://www.baidutupian.com >< img src=“myhome.jpg” >
+参考答案： B
+
+83.单选题
+当链接指向下列哪一种文件时，不打开该文件，而是提供给浏览器下载（）
+
+A ZIP
+B HTML
+C ASP
+D CGI
+参考答案： A
+
+84.单选题
+下列哪一项表示超链接被激活的伪类（）
+
+A a:hover
+B a:link
+C a:active
+D a:span
+参考答案： C
+
+85.单选题
+下列哪一项不是超级链接的伪类（）
+
+A a:hover
+B a:link
+C a:active
+D a:span
+参考答案： D
+
+86.单选题
+a:hover表示超链接文字在（）时的状态。
+
+A 鼠标按下
+B 鼠标经过
+C 鼠标悬停
+D 访问过后
+参考答案： C
+
+87.单选题
+如何在新窗口中打开链接（）
+
+A < a href=”#” new >
+B < a href=”#” target=”_blank” >
+C < a href=”#” target=”_self” >< /a >
+D < a href=”#” target=”_blank” >< /a >
+参考答案： D
+
+88.单选题
+超链接的HTML源代码标记为（）
+
+A <  a >  <  /  a >
+B < b >< / b >
+C < c >< / c >
+D < d >< / d >
+参考答案： A
+
+89.单选题
+制作电子邮件链接的html语句是（）
+
+A < a href="xxx@yyy" >
+B < a href="mailto:xxx@yyy" >
+C < mail href="xxx@yyy" >
+D < mail >xxx@yyy< /mail >
+参考答案： B
+
+90.单选题
+制作一个没有下划线的超链接语句是（）
+A a{decoration:nounderline}
+B a{text-decoration:nounderline}
+C a{text-decoration:none}
+D a{vlink:none}
+参考答案： C
+
+91.单选题
+用于同一个网页内容之间相互跳转的超链接是（）
+
+A 电子邮件链接
+B 空链接
+C 图像链接
+D 锚点链接
+参考答案： D
+
+92.单选题
+下面关于定义超级链接的说法中的错误的是（）
+
+A 可以给文字定义超级链接
+B 也可以给图形定义超级链接
+C 只能使用默认的超级链接颜色，不可更改
+D 链接、已访问过的链接、当前访问的链接可设为不同的颜色
+参考答案： C
+
+93.单选题
+表格中的每个行都要独立使用( )标签设计
+
+A tr
+B td
+C th
+D table
+参考答案： A
+
+94.单选题
+如果要为表格中某一类单元格设置相同的样式，可以用（ ）
+
+A 标记名选择符
+B ID选择符
+C 类选择符
+D 伪类选择符
+参考答案： C
+
+95.单选题
+表格行中的每个数据列都要独立使用( )标签设计
+
+A tr
+B td
+C th
+D table
+参考答案： B
+
+96.单选题
+表格中vertical-align样式属性可能的取值是（ ）
+
+A baseline
+B bottom
+C middle
+D 以上都可以
+参考答案： D
+
+97.单选题
+下列表格样式属性，用于边框合并的是（ ）
+
+A table-layout
+B border-collapse
+C border-spacing
+D padding
+参考答案： B
+
+98.单选题
+以下不属于表格结构划分标记的是（ ）
+
+A thead
+B tfoot
+C tbody
+D tleg
+参考答案： D
+
+99.单选题
+表格的主体一般放在（ ）标签中
+
+A thead
+B tfoot
+C tbody
+D tleg
+参考答案： C
+
+100.单选题
+用于设置表格单元格水平对齐方式的样式属性是（ ）
+
+A width
+B height
+C text-align
+D vertical-align
+参考答案： C
+
+101.单选题
+表格边框属性border默认的值是（ ）
+A 0
+B 1
+C 2
+D 3
+参考答案： A
+
+102.单选题
+一般我们在页面中进行局部排版可以使用（ ）
+
+A ul
+B table
+C ol
+D form
+参考答案： B
+
+103.单选题
+表格的表头,又叫标题列，使用 ( )标签进行定义
+
+A tr
+B td
+C th
+D table
+参考答案： C
+
+104.单选题
+我们如果要设计跨行表格，可以为表格中的td标签添加（ ）
+
+A tablespan
+B rowspan
+C colspan
+D span
+参考答案： B
+
+105.单选题
+我们如果要调整html表头的高度，需要修改它的（ ）的（ ）属性
+
+A table width
+B table height
+C th width
+D th height
+参考答案： D
+
+106.单选题
+用于设置表格单元格竖直对齐方式的样式属性是（ ）
+
+A width
+B height
+C text-align
+D vertical-align
+参考答案： D
+
+107.单选题
+表格标题< caption >
+
+标记用于定义（ ）
+A 表头
+B 表格主体
+C 表尾
+D 表格前的大标题
+参考答案： D
+
+108.单选题
+以下标签中可以不包含< tr >标记的是（ )
+
+A thead
+B tbody
+C tfoot
+D table
+参考答案： C
+
+109.单选题
+以下哪一项是vertical-align所不能设置的？（ ）
+
+A 顶部对齐
+B 底部对齐
+C 居中对齐
+D 左对齐
+参考答案： D
+
+110.单选题
+我们要设置表格单元格的内填充值为上下10px,左右15px的方法是（ ）
+
+A padding:10px 15px
+B margin:10px 15px
+C margin:15px 10px
+D padding:15px 10px
+参考答案： A
+
+111.单选题
+如果要为表格中某一个单元格设置某种样式，可以用（ ）
+
+A 标记名选择符
+B ID选择符
+C 包含选择符
+D 伪类选择符
+参考答案： B
+
+112.单选题
+下列表格标记中有且只能有一个的标记是（ ）
+
+A < tr >
+B < td >
+C < caption >
+D < th >
+参考答案： C
+
+113.单选题
+在html中，我们一般使用下列哪种标签绘制表格？（ ）
+A ul
+B table
+C ol
+D form
+参考答案： B
+
+114.单选题
+表格标记align属性可能的取值是（ ）
+
+A left
+B center
+C right
+D 以上都可以
+参考答案： D
+
+115.单选题
+我们如果要设计跨列表格，可以为表格中的td标签添加（ ）
+
+A tablespan
+B rowspan
+C colspan
+D span
+参考答案： C
+
+116.单选题
+如果我们想使用自定义的列表符号，可以使用（ ）
+
+A list-style-type
+B list-style-position
+C list-style-image
+D list-style-show
+参考答案： C
+
+117.单选题
+当我们用列表制作导航时，通常将列表的list-style-type设为( )
+
+A disc
+B circle
+C square
+D none
+参考答案： D
+
+118.单选题
+当我们用列表制作导航时，我们通常选用（ ）
+
+A 无序列表
+B 有序列表
+C 定义列表
+D 都可以
+参考答案： D
+
+119.单选题
+有序列表的标记是（ ）
+
+A ol
+B ul
+C dl
+D dt
+参考答案： A
+
+120.单选题
+列表属性list-style-type: square的意思是将列表的符号设为（ ）
+
+A 实心圆
+B 空心圆
+C 实心方块
+D 无
+参考答案： C
+
+121.单选题
+当我们想对术语名词进行解释时，可以使用（ ）
+
+A 无序列表
+B 有序列表
+C 定义列表
+D 嵌套列表
+参考答案： C
+
+122.单选题
+无序列表的标记是（ ）
+
+A ol
+B ul
+C dl
+D dt
+参考答案： B
+
+123.单选题
+在定义列表中，一个dt标签后面可以定义（ ）个dd标签
+
+A 0
+B 1
+C 2
+D N(N>=1)
+参考答案： D
+
+124.单选题
+当我们用列表制作水平导航时，需要为每个li标签添加（ ）属性
+
+A float:left
+B display:block
+C display:none；
+D float:none
+参考答案： A
+
+125.单选题
+以下哪一项是能设置列表的综合属性？（ ）
+
+A list-style-type
+B list-style-position
+C list-style-image
+D list-style
+参考答案： D
+
+126.单选题
+在列表中，对列表符号进行设置的CSS属性是（ ）
+A list-style-type
+B list-style-position
+C list-style-image
+D list-style-show
+参考答案： A
+
+127.单选题
+定义列表的标记是（ ）
+
+A ol
+B ul
+C dl
+D dt
+参考答案： C
+
+128.单选题
+在列表中，对列表符号的位置进行设置的CSS属性是（ ）
+
+A list-style-type
+B list-style-position
+C list-style-image
+D list-style-show
+参考答案： B
+
+129.单选题
+列表属性list-style-type: circle的意思是将列表的符号设为（ ）
+
+A 实心圆
+B 空心圆
+C 实心方块
+D 无
+参考答案： B
+
+130.单选题
+当我们想使列表项顺序出现时，可以使用（ ）
+
+A 无序列表
+B 有序列表
+C 定义列表
+D 嵌套列表
+参考答案： B
+
+131.单选题
+列表项内部可以使用( )
+
+A 段落
+B 图片
+C 链接
+D 以上都可以
+参考答案： D
+
+
+
+
+
+单选题
+meta标记中，name属性取值不包含下面哪项？
+
+A description
+B author
+C content-type
+D keywords
+参考答案： C
+
+单选题
+下面哪个不是< link / >标记的属性？
+
+A href
+B src 
+C type
+D rel
+参考答案： B
+
+单选题
+网页文件存储的位置是
+
+A 客户端
+B 浏览器缓存空间中
+C web服务器中
+D ftp服务器中
+参考答案： C
+
+单选题
+下面用于设置网页过期日期的http-equiv属性取值是哪个？
+
+A content-type
+B expire
+C expires
+D refresh
+参考答案： C
+
+单选题
+设置文本对齐方式的样式属性是
+
+A text-decoration
+B font-size
+C text-align
+D align
+参考答案： C
+
+单选题
+代码“< h2 style="text-align:center; color:blue" >这是HTML页面< /h2 >”中，h2、style、color分别是什么？
+
+A 属性、样式属性、标记名
+B 标记名、样式属性、属性
+C 标记名、属性、样式属性
+D 样式名、标记名、属性
+参考答案： C
+
+单选题
+meta标记中，http-equiv属性取值不包含下面哪项？
+
+A content-type
+B description
+C refresh
+D expires
+参考答案： B
+
+单选题
+职教云提问中，点击“随机选人”之后开始选人的操作，属于web标准中的哪一种
+
+A 结构
+B 表现
+C 行为
+参考答案： C
+
+单选题
+下面关于标记或属性的说法中错误的是
+
+A 段落标记是单标记
+B 水平线标记是单标记
+C 标题标记是双标记
+D 水平线标记中使用width属性设置宽度
+参考答案： A
+
+单选题
+树形文档结构中的根元素是哪个
+
+A html
+B head
+C body
+D root
+参考答案： A
+
+多选题
+下面说法中正确的有
+
+A html全称是HyperText Markup Language
+B html是一种标记语言
+C http协议用于传输超文本标记语言
+D css全称是Cascading Style Sheet
+参考答案： A  B  C
+
+多选题
+下面哪些标记不能放在首部
+
+A 页面标题标记< title >...< /title >
+B 元信息标记 < meta / >
+C 图像标记< img / >
+D 段落标记< p >...< /p >
+E 样式标记< style >...< /style >
+参考答案： C  D
+
+多选题
+下面哪些标记是单标记
+
+A 水平线标记
+B 元信息标记
+C 图像标记
+D 段落标记
+参考答案： A  B  C
+
+判断题
+页面中所使用的图片、声音等各种媒体文件都直接保存在页面中
+
+A) 正确
+B) 错误
+参考答案： B
+
+判断题
+web服务器的主目录和网站的根目录是一个概念
+
+A) 正确
+B) 错误
+参考答案： B
+
+单选题
+HTML文档全部由标记构成，下面说法中错误的是（）
+
+A 标记名与<之间不要留有空格
+B 在XHTML规范中所有双标记必须闭合
+C 标记之间既能嵌套，又能交叉
+D 单标记的“/>”之前最好留有空格
+参考答案： C
+
+单选题
+以下哪个是网站中主页文件的名称（）
+
+A index.html
+B default.asp
+C default.htm
+D shouye.html
+参考答案： A
+
+单选题
+（）标记用于定义页面中的信息，这些信息并不显示在浏览器中，该标记能够提供文档的关键字、作者及描述等多种信息
+
+A head
+B body
+C table
+D meta
+参考答案： D
+
+单选题
+网站首页一般命名为（）
+
+A home.html
+B 首页.html
+C index.html
+D 任意起个名字
+参考答案： C
+
+单选题
+我们通过浏览器访问的网站文件都存放在哪里？
+
+A 本机
+B 服务器
+C 网上邻居
+D 任意一台电脑
+参考答案： B
+
+单选题
+关于BFC（Block Formatting Context），块级格式化上下文，以下说法错误的是（  ）
+
+A 同一个BFC内的两个相邻块级元素的外边距合并，但不同 BFC外边距不合并；
+B BFC的区域有可能会与外部浮动元素重叠；
+C BFC元素是一个独立的容器，外面的元素不会影响里面的元素，里面的元素也不会影响外面的元素；
+D 设置包含块overflow属性值为 hidden|auto可以触发BFC；
+参考答案： B
+
+单选题
+CSS的全称是（ ）
+
+A Computer Style Sheets
+B Cascading Style Sheets
+C Creative Style Sheets
+D Colorful Style Sheets
+参考答案： B
+
+单选题
+id选择器的前缀符号是
+
+A $
+B #
+C 圆点
+D ？
+参考答案： B
+
+多选题
+对于下面定义的样式表
+
+
+
+上面样式在 标记中都有效，关于优先级问题，下面说法正确的有哪些？
+
+A *     { 样式规则0 }优先级最低
+B style="样式规则6" 优先级最高
+C #abc  { 样式规则5 }优先级最高
+D #abc  { 样式规则5 }的优先级低于div .xyz{ 样式规则4 }
+E p{ 样式规则1 }的优先级低于 p { 样式规则2 }
+F .xyz  { 样式规则3 }的优先级低于div .xyz{ 样式规则4 }
+参考答案： A  B  E  F
+
+多选题
+
+
+上图代码，在标记中使用的属性有哪些？
+
+A style
+B text-align
+C font-size
+D color
+E width
+参考答案： A  D  E
+
+多选题
+层叠样式表中层叠的概念包括下面哪些说法
+
+A 若内外层标记中的样式出现冲突，则内层起作用
+B 若内外层标记中样式没有冲突，对内层而言要叠加所有样式效果
+C 对同一个选择符而言，后定义的样式优先于先定义的样式
+D 对某个元素而言，内联样式的优先级高于其它所有样式
+参考答案： A  B  C  D
+
+多选题
+若是内外包含元素发生了垂直外边距合并的现象，下面可以使用的解决方案有哪些
+
+A 为父元素设置边框
+B 为父元素设置非0取值的填充
+C 为父元素设置overflow属性，取值使用auto或者hidden
+D 为子元素设置overflow属性，取值使用auto或者hidden
+参考答案： A  B  C
+
+多选题
+基本选择符不包含下面哪几个？
+
+A 群组选择符
+B id选择符
+C 标记名选择符
+D 包含选择符
+参考答案： A  D
+
+多选题
+下面能够设置文本颜色为红色的选项有哪些？
+
+A color:#ff0000;
+B color:#f00;
+C color:rgb(100%,0,0);
+D color:rgb(255,0,0);
+参考答案： A  B  D
+
+多选题
+关于圆角边框，下面说法正确的有哪些？
+
+A 使用border-radius设置圆角的半径
+B 宽高相同的div，若圆角半径为50%，则可以得到一个圆形
+C border-radius:6px;表示元素四个方向的圆角大小都是6px，即每个圆角的“水平半径”和“垂直半径”都设置为6px；
+D border-radius：10px   20px   30px  40px;四个属性值分别表示左上角、右上角、右下角、左下角的圆角大小（顺时针方向）
+参考答案： A  B  C  D
+
+多选题
+关于边框的样式属性，下面说法正确的有哪些？
+
+A border-width后面可以跟定1个值、2两个值、3个值和4个值，用于设置四个方向的边框宽度
+B border-top后面可以同时跟定3个值，用于设置上边框的宽度、颜色和线型 
+C border后面可以跟定3个值，同时设定4个方向边框的宽度、颜色和线型
+D 取值中的颜色、宽度和线型都有默认值
+参考答案： A  B  C
+
+多选题
+关于选择符，下面描述正确的有哪些？
+
+A 使用标记名选择符定义的样式，将对页面中所有该标记起作用
+B 页面中的元素id属性取值是唯一的，使用id选择符定义的样式只对特定元素起作用
+C 类选择符定义之后，可以在页面中根据需要引用
+D 群组选择符定义之后，其中每个选择符都可以独立增加新的样式定义
+E div span{}定义的样式，只对div的直接子元素span有效
+参考答案： A  B  C  D
+
+多选题
+关于类选择符，下面描述正确的有哪些
+
+A 定义时，前面要有一个#号
+B 在标记中需要使用class属性引用
+C 可以在多个标记中引用
+D 只能在一个标记中引用
+参考答案： B  C
+
+多选题
+关于阴影的设置，下面说法正确的有哪些？
+
+A 使用box-shadow:0 0 10px 3px #3FF;可以设置盒子四周向外的阴影
+B 使用box-shadow:5px 8px 0px 0px #3FF;设置的是向右向下的外部阴影
+C 无论设定的阴影方向如何，模糊半径都会在四个方向添加模糊阴影效果
+D 模糊半径只能在水平半径和垂直半径所设定的阴影的基础上添加模糊效果    
+参考答案： A  B  C
+
+多选题
+若使用了background-image:url(flower.jpg);设置了背景图，要将该背景图始终放置在页面内容右下角位置不平铺，需要增加的样式属性有哪些？
+
+A background-repeat:no-repeat;
+B background-attachment:fixed;
+C background-attachment:scroll;
+D background-position:100%;
+E background-position:100% 100%; 
+参考答案： A  C  E
+
+多选题
+关于样式属性box-sizing的取值及说法正确的有哪些？
+
+A 取值content-box，表示width和height定义的只是内容区的宽度与高度 
+B 取值padding-box，表示width和height定义的是内容区和填充区的宽度与高度
+C 取值border-box，表示width和height定义的是内容区、填充区和边框的宽度与高度
+D 取值margin-box，表示width和height定义的是内容区、填充区、边框区和边距区的宽度与高度
+参考答案： A  C
+
+多选题
+关于样式表的定义，下面描述正确的是哪个
+
+A p>span{}，定义的是span元素后面相邻段落元素的样式
+B span,p{}，定义的是span元素和段落元素的样式
+C #p1, #p2 span{}定义的是id为p1和p2两个段落下面span元素的样式
+D #p1, #p2 span{}样式表整体上使用的是群组选择符
+参考答案： B  D
+
+多选题
+关于盒子的样式定义，下面说法正确的有哪些？
+
+A 宽度百分比取值，是相对其父元素总宽度来说的
+B 高度百分比取值，是相对其父元素内容区高度来说的
+C 填充百分比取值，横向是相对父元素内容区宽度，纵向是相对父元素内容区高度
+D 外边距取值可以是负数
+参考答案： B  D
+
+多选题
+下面哪些情况会发生边距的合并
+
+A 文档流中上下相邻的元素会发生边距的合并
+B 内外包含元素，若父元素没有边框和填充，会和子元素发生边距合并
+C 没有填充没有边框没有内容的元素自身的上下边距会合并
+D 浮动后横向排列的元素会发生边距的合并
+参考答案： A  B  C
+
+多选题
+下面哪几组是后代选择器？
+
+A p span{}
+B div.p1{}
+C .p1 span{}
+D p1 span{}
+参考答案： A  C
+
+多选题
+对于样式代码padding:10px 20px 15px 20px;，下面描述正确的有哪些？
+
+A 可以使用样式代码padding:10px 20px 15px;取代 
+B 定义的上下填充是20px
+C 定义的左右填充是20px 
+D 定义的上填充是10px，下填充是15px 
+参考答案： A  C  D
+
+判断题
+盒子的背景能够覆盖内容区、填充区和边框区
+
+A) 正确
+B) 错误
+参考答案： A
+
+判断题
+CSS中优先级的顺序为!importan>标签选择符>id选择符>类选择符
+
+A) 正确
+B) 错误
+参考答案： B
+
+判断题
+背景能够覆盖盒子的所有区域
+
+A) 正确
+B) 错误
+参考答案： B
+
+单选题
+p>span{}样式表中使用的是哪种类型的选择符
+
+A 子对象选择符
+B 包含选择符
+C 相邻选择符
+D 属性选择符
+参考答案： A
+
+单选题
+以下方法中，不属于CSS定义红色的方法是
+
+A #f00
+B #255，0，0
+C rgb(255，0，0)
+D red
+参考答案： B
+
+单选题
+如何在一个段落中同时引用类名p1和p2？
+
+A p class="p1" class="p2"
+B p class="p1,p2"
+C p class="p1 p2"
+D p class="p1;p2"
+参考答案： C
+
+单选题
+哪个样式属性可用来改变背景颜色？（ ）
+
+A text-color
+B bgcolor
+C color
+D background-color
+参考答案： D
+
+单选题
+下面哪一组不是群组选择符样式表？
+
+A p1, span{}
+B h2, p, .sp1{}
+C p span{}
+D #p1,span{}
+参考答案： C
+
+单选题
+行内元素可以通过哪个样式及属性设置变为块级元素（ ）
+
+A display:none；
+B display:inline；
+C display:block；
+D width:200px；
+参考答案： C
+
+单选题
+p span{}样式表中使用的是哪种类型的选择符
+
+A 子对象选择符
+B 后代选择符
+C 相邻选择符
+D 属性选择符
+参考答案： B
+
+单选题
+下面说法错误的是( )。
+
+A CSS 样式表可以将格式和内容分离
+B CSS 样式表可以控制页面的布局
+C 一个样式表文件只能在一个页面中起作用
+D 一个样式表文件可以在多个页面中引用
+参考答案： C
+
+单选题
+在HTML文档中，引用外部样式表的规范位置是？（ ）
+
+A 文档的末尾
+B 文档首部
+C 文档的顶部
+D 文档主体
+参考答案： B
+
+单选题
+下面哪个不属于边框样式属性（ ）
+
+A width
+B color
+C style
+D position
+参考答案： D
+
+单选题
+若某个父元素中只有一个子元素，如何定义其宽度，保证其总宽度与父元素内容区同宽
+
+A width:100%;
+B width:auto;
+C width:500px;
+D width:100vw;
+参考答案： B
+
+单选题
+下面样式代码定义中，哪一个是没有任何错误的
+
+A .p1{color:f00; text-align:center;}
+B p{color:red; font-size:10pt;}
+C h1{color=red; font-size=10pt;}
+D h1{color:red  font-size:10pt;}
+E p{color:red; font-size:10;}
+参考答案： B
+
+单选题
+下列哪个选项的CSS语法是正确的？（ ）
+
+A body:color=black
+B {body:color=black(body}
+C body {color: black}
+D {body；color:black}
+参考答案： C
+
+单选题
+下列哪一项不是盒子的边框样式属性
+
+A border-top
+B border-style
+C border-top-style
+D border-style-top
+参考答案： D
+
+单选题
+以下不属于背景样式属性的是（ ）。
+A background-repeat
+B background-color
+C background-width
+D background-position
+参考答案： C
+
+单选题
+若.div1{width:300px; height:200px; padding:10px; margin:20px; border:1px solid #00f;}，引用该类名的div占用的总宽度和总高度分别是多少？
+
+A 360px  260px
+B 362px  262px
+C 322px  222px
+D 342px  242px
+参考答案： B
+
+单选题
+下面不属于CSS样式类型的是（ ）。
+
+A 索引样式
+B 行内样式
+C 内嵌样式
+D 链接外部样式
+参考答案： A
+
+单选题
+哪个CSS属性可控制文本的尺寸（ ）
+A text-size
+B text-style
+C font-style
+D font-size
+参考答案： D
+
+单选题
+下列哪个css属性能够设置盒模型的填充为10、20、30、40（顺时针方向）（ ）
+
+A padding:10px 20px 30px 40px
+B padding:10px 1px
+C padding:5px 20px 10px
+D padding:10px
+参考答案： A
+
+单选题
+使用样式代码.div2{width:300px; height:200px; padding:10px; margin:0; border:2px dashed #aaf; box-sizing:border-box;}定义的盒子中，内容区所占的宽度是多少？
+
+A 300px
+B 280px
+C 288px
+D 276px 
+参考答案： D
+
+单选题
+标记内部使用style=设置的样式称为
+
+A 内联样式
+B 内嵌样式
+C 外部样式
+参考答案： A
+
+单选题
+如何去掉文本超级链接的下划线？
+
+A a {text-decoration:no underline}
+B a {underline:none}
+C a {decoration:no underline}
+D a {text-decoration:none}
+参考答案： D
+
+单选题
+下面说法错误的是( )。
+
+A CSS 样式表可以将格式和内容分离
+B CSS 样式表可以控制页面的布局
+C 样式表只能在页面的head部分引用
+D 一个样式表文件可以在多个页面中引用
+参考答案： C
+
+单选题
+以下方法中，不属于CSS定义颜色的方法是：（  ）
+
+A 用十六进制数表示颜色值
+B 用八进制数表示颜色值
+C 用rgb函数表示颜色值
+D 用颜色名称表示颜色值
+参考答案： B
+
+单选题
+在IE6以上浏览器中使用W3C标准时，设置某个块级元素的样式为{width:600px； margin:30px； padding:20px； border:2px solid #f00；}，该块级元素的总宽度是（ ）
+
+A 600px
+B 664px
+C 704px
+D 684px
+参考答案： C
+
+单选题
+使用css样式能够完成下列哪种功能()
+
+A 美化页面
+B 设计页面特效
+C 完成页面元素的添加
+D 上述功能都无法实现
+参考答案： A
+
+单选题
+使用html标记能够完成下列哪种功能()
+
+A 美化页面
+B 设计页面特效
+C 完成页面元素的添加
+D 上述功能都无法实现
+参考答案： C
+
+单选题
+网页快速换肤是如何做到的？
+
+A 不同的html结构，相同的css样式表
+B 相同的html结构，不同的css样式表
+C 不同的html结构，不同的css样式表
+D 相同的html结构，相同的css样式表
+参考答案： B
+
+单选题
+关于外边距（margin），以下说法错误的是（）
+
+A 当我们上下排列一系列规则的块级元素（如段落P）时，设置了块元素的外边距，段落之间就会产生双倍的距离。
+B 外边距的重叠只产生在普通流文档的上下外边距之间，行内元素实际上不占上下外边距，浮动元素的外边距也不会合并。
+C 块级元素的垂直相邻外边距会合并，水平边距永远不会重合。
+D 外边距重叠是指两个垂直相邻的块级元素，当上下两个边距相遇时，外边距会产生重叠现象，且重叠后的外边距，等于其中较大者。
+参考答案： A
+
+单选题
+以下关于盒子模型的说法正确的是（）
+
+A 盒子的宽度为200像素，说明该盒子在页面上水平占据200像素的空间。
+B 块级元素才能做盒子，行内元素不能转换成块级元素。
+C 盒子模型的padding样式可以为负值。
+D 页面布局其实就是盒子的布局，div是最常用的盒子元素。
+参考答案： D
+
+单选题
+下面那个不属于边框样式属性（ ）
+
+A width
+B color
+C style
+D position
+参考答案： D
+
+单选题
+根据以下的HTML代码：h1{color:”limegreen”；font-family:”arial”}可以知道（ ）
+
+A 此段代码是一个类选择器
+B 选择器的名称是color
+C { }部分是对h1这个选择器的样式说明
+D limegreen和font-family都是样式值
+参考答案： C
+
+单选题
+要在标记中同时引用两个class类选择符c1和c2，需要使用的代码是（ ）
+
+A <span class="c1，c2">
+B <span class="c1；c2">
+C <span class="c1 c2">
+D <span class="c1" class="c2">
+参考答案： C
+
+单选题
+关于float描述错误的是（ ）
+
+A float:left
+B float:center
+C float:right
+D float:none
+参考答案： B
+
+单选题
+以下HTML代码中，哪个是正确引用外部样式表的方法？（ ）
+
+A <style src="mystyle.css">
+B <link rel="stylesheet" type="text/css" href="mystyle.css">
+C <stylesheet>mystyle.css</stylesheet>
+参考答案： B
+
+单选题
+如何改变元素的左边距？（ ）
+
+A text-indent:
+B margin-left:
+C margin:
+D indent
+参考答案： B
+
+单选题
+下列哪个css属性能够设置盒模型的内填充为10、20、0、20（顺时针方向）（ ）
+
+A padding:10px 20px 0px
+B padding:10 20 0 20
+C padding:10px 20px 10px
+D padding:10px
+参考答案： A
+
+单选题
+关于浮动，下面说法错误的是（ ）。
+
+A 浮动设置盒子的横向排列
+B 浮动的盒子默认不占据页面空间
+C 使用float设置浮动，取值可以是left或者right
+D 浮动的盒子仍旧可以设置居中效果
+参考答案： D
+
+单选题
+一个盒子要在浏览器页面水平居中，应该如何设置？（）
+
+A margin：10%；
+B margin-left：20px；
+C margin：0 auto；
+D padding：0 auto；
+参考答案： C
+
+单选题
+盒子模型如果没有设置height的样式值，那么该盒子在浏览器中显示为（）
+
+A 浏览器高度
+B 没有高度
+C 内容等高
+D 一半
+参考答案： C
+
+单选题
+盒子模型如果没有设置width的样式值，那么显示为（）
+
+A 浏览器或者父级宽度
+B 没有宽度
+C 和内容等宽
+D 父级宽度的一半
+参考答案： A
+
+单选题
+下列对盒子模型描述不正确的是（ ）
+
+A 一个盒子由边界、边框、填充和内容区域4个部分组成
+B 盒子的填充、边框、边界和内容区域都分为上、下、右、左四个方向
+C CSS定义盒子的width和height时，实际上定义的是内容区域content的width和height。
+D 盒子的宽度是内容宽度加上padding、border和margin。
+参考答案： B
+
+单选题
+在HTML文档中，引用外部样式表的正确位置是（ ）
+
+A 文档的末尾
+B <head>部分
+C 文档的顶部
+D <body>部分
+参考答案： B
+
+单选题
+在CSS语言中下列哪一项能设置左边框的样式（ ）
+
+A border-left-width: 值
+B border-top-width: 值
+C border-left:值
+D border-top-width: 值
+参考答案： C
+
+单选题
+如何显示这样一个边框：顶边框10像素、底边框5像素、左边框20像素、右边框1像素( )。
+
+A border-width:10px 1px 5px 20px；
+B border-width:10px 20px 5px 1px；
+C border-width:5px 20px 10px 1px；
+D border-width:10px 5px 20px 1px；
+参考答案： A
+
+单选题
+链接到外部样式应该使用的标记是（ ）。
+
+A <link>
+B <style>
+C <object>
+D <head>
+参考答案： A
+
+单选题
+可用来改变背景颜色的样式是（ ）
+
+A text-color
+B bgcolor
+C color
+D background-color
+参考答案： D
+
+单选题
+下面不属于CSS样式类型的是（）？
+
+A 索引样式
+B 行内样式
+C 内嵌样式
+D 链接外部样式
+参考答案： A
+
+单选题
+以下HTML代码中，哪个是正确引用外部样式表的方法？（）
+
+A <stylesrc="mystyle.css">
+B <linkrel="stylesheet"type="text/css"href="mystyle.css">
+C <stylesheet>mystyle.css</stylesheet>
+D <styletype="text/css”></style>
+参考答案： B
+
+单选题
+在样式定义中要使用一个ID样式，应使用（）符号作为ID名称的前缀。
+
+A .
+B *
+C ?
+D #
+参考答案： D
+
+单选题
+怎样给所有的h1标签添加背景颜色?（）
+
+A .h1{background-color:#FFFFFF}
+B h1{background-color:#FFFFFF;}
+C h1.all{background-color:#FFFFFF}
+D #h1{background-color:#FFFFFF}
+参考答案： B
+
+单选题
+CSS选择符的样式规则之间使用（）符号分隔？
+
+A ？
+B ，
+C ；
+D 。
+参考答案： C
+
+单选题
+若某个div的样式代码为{width:300px; height:80px; border:1px solid #00f;}，内有一行没有使用任何标记定界的纯文本，要设置该文本在div内部垂直方向居中，需要增加哪个样式定义？
+
+A vertical-align:middle;
+B text-align:center;
+C line-height:80px;
+D vertical-align:center;
+参考答案： C
+
+单选题
+样式属性取值量度单位中，哪个表示倍数关系？
+
+A px
+B pt
+C em
+D pc
+参考答案： C
+
+单选题
+样式属性line-height的作用是（ ）
+
+A 设置下划线
+B 设置文本行高
+C 设置缩进
+D 设置盒子的高度
+参考答案： B
+
+单选题
+若id为p1的段落的字号为12pt，下面哪个样式能够设置段落第一个字下沉占据2行的空间
+
+A #p1:first-line{font-size:24pt; }
+B #p1:first-letter{font-size:2em;}
+C #p1:first-letter{float:left;}
+D #p1:first-letter{font-size:24pt; float:left;}
+参考答案： D
+
+单选题
+下列样式定义字体为宋体、字体颜色为红色、斜体、大小20px、粗细800号，正确的定义是：（ ）
+
+A p {font-family:宋体；font-size:20px；font-weight:800；color:red； font-style:italic； }
+B p {font-family:20px； font-size:宋体； font-weight:800； color: red； font-style:italic； }
+C p {font-family:20px； font-size:800； font-weight:宋体； color:red； font-style:italic； }
+D p{font-family:800； font-size:20px； font-weight:red； color:italic； font-style:宋体；}
+参考答案： A
+
+单选题
+在html文件夹中存在页面文件page.html，在其内部存在代码<  img src="../images/img1.jpg"   >，根据代码中的路径标识可以识别images文件夹与html文件夹的位置关系是（   ）。
+
+A 两者位于同一个父文件夹中
+B images是html的父文件夹
+C html是images的父文件夹
+D 两者之间没有任何关系
+参考答案： A
+
+单选题
+哪个CSS属性可设置文本的斜体效果（ ）
+
+A font-size
+B line-height
+C font-style
+D font-weight
+参考答案： C
+
+单选题
+在XHTML页面中制作一个图像，想要在鼠标指向这个图像时浮出一条提示信息，应该使用的属性是（）。
+
+A alt
+B src
+C title
+D msg
+参考答案： C
+
+单选题
+下面标记中属于行内标记的是()
+
+A <table>
+B <img>
+C <p>
+D <div>
+参考答案： B
+
+单选题
+样式定义中使用的注释格式是()
+
+A //...
+B <!--.....-->
+C /*...*/
+D \'...
+参考答案： C
+
+单选题
+标记<u>和< /u>的作用是()
+
+A 设置标记之间文本加下划线
+B 设置标记之间文本加粗
+C 设置标记之间文本斜体
+D 设置标记之间文本加删除线
+参考答案： A
+
+单选题
+设置文本加粗的样式属性是（）
+
+A font-weight
+B <strong>...</strong>
+C <b>....</b>
+D text-indent
+参考答案： A
+
+单选题
+网页中的特殊字符一般是以（）符号开始的
+
+A &
+B %
+C @
+D ~
+参考答案： A
+
+单选题
+下面哪一组样式属性都是与文本有关的（）
+
+A font-size， line-height， padding
+B text-decoration， height， font-style
+C font-weight， text-indent， line-height
+D float， padding， line-height
+参考答案： C
+
+单选题
+页面代码的注释格式是()
+
+A //...
+B <!--.....-->
+C /*...*/
+D \'...
+参考答案： B
+
+单选题
+若要设置图片与同一行中文本之间的垂直对齐关系，需要使用的样式属性是()
+
+A text-align
+B target
+C width
+D vertical-align
+参考答案： D
+
+单选题
+下列描述中错误的是()
+
+A 使用浮动设置可以将行内元素变为块级元素
+B 文本行内框的高度是由样式属性line-height的取值决定的
+C line-height属性可对所有行内元素起作用
+D 设置文本加粗、斜体和下划线等效果的标记都是双标记
+参考答案： C
+
+单选题
+插入图像文件时，文件类型不能是以下哪种类型（）
+
+A bmp
+B jpg
+C gif
+D png
+参考答案： A
+
+单选题
+在图片标记中，必须要设置的属性是()
+
+A href
+B alt
+C width
+D src
+参考答案： D
+
+单选题
+插入图像时，建议使用哪一种路径方式（）
+
+A 相对路径
+B 绝对路径
+C 根路径
+D 引用路径
+参考答案： A
+
+单选题
+以下哪个标记可以设置上标文本（）
+
+A <sub>....</sub>
+B <sup>...</sup>
+C <b>....</b>
+D <s>....</s>
+参考答案： B
+
+单选题
+以下不属于背景图片样式属性的是（）
+
+A background-repeat   
+B background-color  
+C background-width
+D background-position
+参考答案： C
+
+单选题
+以下哪个单位既可以看作绝对单位也可以看作相对单位（）
+
+A em
+B ex
+C pt
+D px
+参考答案： D
+
+单选题
+以下方法中，不属于CSS定义红色的方法是：（ ）
+
+A #f00
+B #255，0，0
+C rgb(255，0，0)
+D red
+参考答案： B
+
+多选题
+关于鼠标指针样式属性cursor取值，下面说法正确的有哪些
+
+A 取值pointer可以设置小手状
+B 取值url()形式，可以将任意类型图片设置为鼠标指针效果
+C 取值crosshair，设置交叉十字指针效果
+D 可以使用逗号间隔跟定多个取值，若前面取值无效则向后递推
+参考答案： A  C  D
+
+判断题
+相对定位和绝对定位的盒子都不需要占据页面空间
+
+A) 正确
+B) 错误
+参考答案： B
+
+单选题
+如果我们想使用自定义的列表符号，可以使用（ ）
+A list-style-type
+B list-style-position
+C list-style-image
+D list-style-show
+参考答案： C
+
+单选题
+当我们用列表制作导航时，通常将列表的list-style-type设为( )
+A disc
+B circle
+C square
+D none
+参考答案： D
+
+单选题
+当我们用列表制作导航时，我们通常选用（ ）
+
+A 无序列表
+B 有序列表
+C 定义列表
+D 都可以
+参考答案： D
+
+单选题
+有序列表的标记是（ ）
+A ol
+B ul
+C dl
+D dt
+参考答案： A
+
+单选题
+列表属性list-style-type: square的意思是将列表的符号设为（ ）
+A 实心圆
+B 空心圆
+C 实心方块
+D 无
+参考答案： C
+
+单选题
+当我们想对术语名词进行解释时，可以使用（ ）
+A 无序列表
+B 有序列表
+C 定义列表
+D 嵌套列表
+参考答案： C
+
+单选题
+无序列表的标记是（ ）
+A ol
+B ul
+C dl
+D dt
+参考答案： B
+
+单选题
+在定义列表中，一个dt标签后面可以定义（ ）个dd标签
+A 0
+B 1
+C 2
+D N(N>=1)
+参考答案： D
+
+单选题
+当我们用列表制作水平导航时，需要为每个li标签添加（ ）属性
+A float:left
+B display:block
+C display:none；
+D float:none
+参考答案： A
+
+单选题
+以下哪一项是能设置列表的综合属性？（ ）
+A list-style-type
+B list-style-position
+C list-style-image
+D list-style
+参考答案： D
+
+单选题
+在列表中，对列表符号进行设置的CSS属性是（ ）
+A list-style-type
+B list-style-position
+C list-style-image
+D list-style-show
+参考答案： A
+
+单选题
+定义列表的标记是（ ）
+A ol
+B ul
+C dl
+D dt
+参考答案： C
+
+单选题
+在列表中，对列表符号的位置进行设置的CSS属性是（ ）
+A list-style-type
+B list-style-position
+C list-style-image
+D list-style-show
+参考答案： B
+
+单选题
+列表属性list-style-type: circle的意思是将列表的符号设为（ ）
+A 实心圆
+B 空心圆
+C 实心方块
+D 无
+参考答案： B
+
+单选题
+当我们想使列表项顺序出现时，可以使用（ ）
+A 无序列表
+B 有序列表
+C 定义列表
+D 嵌套列表
+参考答案： B
+
+单选题
+列表项内部可以使用( )
+A 段落
+B 图片
+C 链接
+D 以上都可以
+参考答案： D
+
+单选题
+在网页中有如下一段HTML代码，如果要使文本显示在图片上方下列语句正确的是（）。
+<  div id="father"  >
+    <  img src="image/photo.jpg"  alt="日用品" /  >
+    <  div class="text"  >定位盒子......<  /div  >
+<  /div  >
+
+
+A  #father{position:relative;}img { position:absolute; z-index:1; }
+B .father{position:relative;} img {position:absolute; }
+C  #father{position:relative;}text { positon:absolute; }
+D  #father{position:relative;}.text{ position:absolute; top:0px; }
+参考答案： D
+
+单选题
+以下关于定位的说明错误的是：
+
+A 定位为relative是相对于原来位置移动，元素设置此属性之后仍然处在文档流中，不影响其他元素的布局
+B 定位为relative元素会脱离文档流，如果设置偏移量，会影响其他元素的位置定位
+C 绝对定位的元素的位置相对于最近的已定位祖先元素，如果元素没有已定位的祖先元素，那么它的位置相对于最初的包含块。
+D position:fixed;是以浏览器窗口作为参考进行定位，它是浮动在页面中，元素位置不会随浏览器窗口的滚动条滚动而变化。
+参考答案： B
+
+单选题
+下列哪一项表示超链接已访问过的伪类（）
+A a:hover
+B a:link
+C a:visited
+D a:span
+参考答案： C
+
+单选题
+我们想要为网页中的文字加上超链接，可以采用哪个标记达到要求（）
+
+A < link >
+B < href >
+C <a>
+D < b>
+参考答案： C
+
+单选题
+< a href = " #csust " >信息学院 < / a > 的作用是（）
+
+A 超链接到信息学院网页上
+B 超链接到本文件中csust处
+C 超链接暂时不被运行
+D 超链接到#csust网页上
+参考答案： B
+
+单选题
+在CSS中，可以设置元素绝对定位的是（） 
+A position:fixed
+B position:relative
+C position:static
+D position:absolute
+参考答案： D
+
+单选题
+a:hover表示超链接文字在（）时的状态。
+
+A 鼠标按下
+B 鼠标经过
+C 鼠标悬停
+D 访问过后
+参考答案： C
+
+单选题
+用于同一个网页内容之间相互跳转的超链接是（）
+A 电子邮件链接
+B 空链接
+C 图像链接
+D 锚点链接
+参考答案： D
+
+单选题
+超链接是一种（）关系
+A 一对一
+B 一对多
+C 多对一
+D 多对多
+参考答案： A
+
+单选题
+以下哪个不是标记< a >的常用属性（）
+
+A target
+B href
+C margin
+D title
+参考答案： C
+
+单选题
+制作一个没有下划线的超链接语句是（）
+A a{decoration:nounderline}
+B a{text-decoration:nounderline}
+C a{text-decoration:none}
+D a{vlink:none}
+参考答案： C
+
+单选题
+超链接的HTML源代码标记为（）
+
+A <  a >  <  /  a >
+B < b >< / b >
+C < c >< / c >
+D < d >< / d >
+参考答案： A
+
+单选题
+以下不是超链接的类别的是（）
+A 内部链接
+B 文本链接
+C 锚点链接
+D 外部链接
+参考答案： B
+
+单选题
+下面关于定义超级链接的说法中的错误的是（）
+A 可以给文字定义超级链接
+B 也可以给图形定义超级链接
+C 只能使用默认的超级链接颜色，不可更改
+D 链接、已访问过的链接、当前访问的链接可设为不同的颜色
+参考答案： C
+
+单选题
+下列的HTML中哪个可以产生超链接（）
+
+A  <  a  >W3Schools.com<  >
+B <a href=h  t  t  p : / / w  w  w . w  3  s  c  h  o  o  l   s . c o m    "  > <   /  a  >
+C < a href= "  h t t p : / / w w w . w 3 s c h o o l  s  .  com   "   > http://www.w3schools.com/  < /a>
+D http://www.w3schools.com
+参考答案： C
+
+单选题
+若要在页面中创建一个图形超链接，显示的图形为myhome.jpg，所链接的地址为http://www.baidutupian.com，以下用法中，正确的是（）
+
+A < a href=“http://www.baidutupian.com” >myhome.jpg< /a >
+B < a href=“http://www.baidutupian.com” >< img src=“myhome.jpg” >< /a >
+C < img src=“myhome.jpg” >< a  href=“http://www.baidutupian.com” >< /a >
+D < a href=http://www.baidutupian.com >< img src=“myhome.jpg” >
+参考答案： B
+
+单选题
+下列选项中，哪一项不是positon属性的可能值（）
+A top 
+B fixed
+C static
+D relative
+参考答案： A
+
+单选题
+以下哪个不是href属性常用链接地址（）
+
+A 完整url形式
+B 链接到外部文档、图像或多媒体文件
+C 同一页面的某一部分
+D 通配符*
+参考答案： D
+
+单选题
+如何在新窗口中打开链接（）
+
+A < a href=”#” new >
+B < a href=”#” target=”_blank” >
+C < a href=”#” target=”_self” >< /a >
+D < a href=”#” target=”_blank” >< /a >
+参考答案： D
+
+单选题
+以下是伪对象选择符的有（）
+A 群组选择符
+B first-line
+C 相邻选择符
+D 通配符
+参考答案： B
+
+单选题
+下列哪一项不是超级链接的伪类（）
+A a:hover
+B a:link
+C a:active
+D a:span
+参考答案： D
+
+单选题
+当链接指向下列哪一种文件时，不打开该文件，而是提供给浏览器下载（）
+A ZIP
+B HTML
+C ASP
+D CGI
+参考答案： A
+
+单选题
+A文件夹与B文件夹是同级文件夹，其中A下有a.htm，B下有b.htm文件，现在我们希望在a.htm文件中创建超链接，链接到b.htm，应该在a.htm页面代码中如何描述链接内容？
+A b.htm
+B ././././B/b.htm
+C ../B/b.htm
+D ../../b.htm
+参考答案： C
+
+单选题
+下列哪一项表示超链接被激活的伪类（）
+A a:hover
+B a:link
+C a:active
+D a:span
+参考答案： C
+
+单选题
+在CSS样式中，position属性的默认值是（）
+A static
+B absolute
+C relative
+D fixed
+参考答案： A
+
+单选题
+制作电子邮件链接的html语句是（）
+
+A < a href="xxx@yyy" >
+B < a href="mailto:xxx@yyy" >
+C < mail href="xxx@yyy" >
+D < mail >xxx@yyy< /mail >
+参考答案： B
+
+单选题
+在CSS中，可以设置元素相对定位的是（） 
+A position:fixed
+B position:relative
+C position:static
+D position:absolute
+参考答案： B
+
+单选题
+在CSS中，可以设置元素固定定位的是（） 
+A position:fixed
+B position:relative
+C position:static
+D position:absolute
+参考答案： A
+
+单选题
+HTML5加强了表单验证功能，可验证表单控件是否可空及输入内容的类型及格式是否合乎规定，以下关于表单验证错误的说法是（）
+
+A 为表单设置novalidate 属性时，可以关闭整个表单的验证，这样可以使form内的所有表单控件不被验证。
+B 为指定的某个input控件设置novalidate 属性时，则关闭该input控件的验证。
+C html5的表单控件可以使用pattern属性设置正则表达式指定输入内容必须符合指定模式
+D html5的表单控件​在需要添加非空验证的元素上添加 checked 属性进行非空验证。
+参考答案： D
+
+单选题
+用于实现焦点转移的标记是（）
+
+A label
+B required
+C focus
+D option
+参考答案： A
+
+单选题
+html5中在元素上添加（   ） 属性可以进行非空验证。
+
+A required
+B checked
+C unnull
+D novalidate
+参考答案： A
+
+单选题
+以下哪个属性可以提供用户填写输入字段的提示信息，并且当该控件获取焦点时提示信息消失？
+
+A ​placeholder
+B readonly
+C value
+D text
+参考答案： A
+
+单选题
+为了解决不同浏览器对视音频文件的兼容性，在HTML5中，可以运用（  ）元素提供多个备用文件？
+
+A video
+B audio
+C source
+D media
+参考答案： C
+
+单选题
+在HTML5中嵌入的音频格式不包括以下哪一种（ ）？
+
+A Vorbis
+B MP3
+C wav
+D Midi
+参考答案： D
+
+多选题
+以下哪几种用法可以设置视频自动播放？
+
+
+A autoplay="autoplay"
+B autoplay=true
+C autoplay
+D autoplay=1
+参考答案： A  C
+
+单选题
+HTML5中使用（   ）标签嵌入视频？
+
+A video
+B audio
+C sound
+D source
+参考答案： A
+
+单选题
+HTML5中使用（   ）标签嵌入音频？
+
+A video
+B audio
+C sound
+D source
+参考答案： B
+
+单选题
+在HTML5中支持的视频格式不包括以下哪一种？
+
+A Ogg
+B MPEG 4
+C Avi
+D WebM
+参考答案： C
+
+单选题
+以下哪一个表示的不是具有提交功能的按钮。( )
+
+A <input type="submit">
+B <input type="button">
+C <input type="image">
+D <button type=submit></button>
+参考答案： B
+
+单选题
+对于< FORM  action=″URL″ method=* >标签，其中*代表GET或（  ）。 
+
+A set
+B put
+C post
+D input
+参考答案： C
+
+单选题
+表单对象的名称由(  )属性设定。
+
+A name
+B method
+C post
+D action
+参考答案： A
+
+单选题
+表单提交后的数据处理程序由(  )属性指定。
+
+A name
+B method
+C post
+D action
+参考答案： D
+
+单选题
+若想将表单中数据发送到服务器由服务器脚本处理，应将< INPUT >标记的TYPE属性值设为( )
+
+A submit
+B radio
+C reset
+D text
+参考答案： A
+
+单选题
+不是表单提供给用户的输入形式是( )
+
+A text
+B radio
+C type
+D file
+参考答案： C
+
+单选题
+在表单中需要把用户的数据以密码的形式接受，应该定义的表单元素是 (  ) 
+
+A < input type=text > 
+B < input type=password >
+C < input type=checkbox >
+D < input type=radio > 
+参考答案： B
+
+单选题
+在 HTML 文档中， 有关禁用的表单元素说法正确的是 （）
+
+A 在网页中，如果不想让用户访问某些表单元素，可以通过元素的 Disabled 属性禁用它
+B 禁用的表单元素可以在运行时通过脚本启用
+C 通过 Readonly 属性设为只读的元素，不会随表单一并提交
+D 以上说法都不对
+参考答案： A
+
+单选题
+表单若要提交大数据量的数据，则应采用（  ）方法。
+
+A name
+B method
+C post
+D action
+参考答案： C
+
+单选题
+以下(  )标签用于在表单中构建复选框。
+
+A < input type="text" />
+B < input type="radio" />
+C < input type="checkbox" />
+D < input type="password" />
+参考答案： C
+
+单选题
+表单对象的提交方法由(  )属性指定。
+
+A name
+B method
+C post
+D action
+参考答案： B
+
+单选题
+当< INPUT >标记的TYPE属性值为( )时，代表一个可选多项的复选框。
+
+A TEXT
+B PASSWORD 
+C RADIO 
+D CHECKBOX 
+参考答案： D
+
+单选题
+下面对于 HTML 表单中的复选框说法不正确的是( )
+
+A 选定了 Checkbox 元素时，会将一个 name/value 对与 FORM 一 并提交
+B 复选框在默认情况下为选中状态
+C Checkbox 的 CHECKED 属性设置该复选框被选中
+D 一组复选框的 NAME 属性值必须相同
+参考答案： B
+
+单选题
+HMTL表单的首要标记是< form >,< form >标记的参数method表示表单发送的方法，可能为get或post，下列关于get和post的描述正确的是（）
+
+A post方法传递的数据对客户端是不可见的
+B get请求信息以查询字符串的形式发送，查询字符串长度没有大小限制
+C post方法对发送数据的数量限制在255个字符之内
+D get方法传递的数据对客户端是不可见的
+参考答案： A
+
+单选题
+在HTML中，( )标签用于在网页中创建表单。
+
+A < input >
+B < select >
+C < table >
+D < form >
+参考答案： D
+
+单选题
+HTML代码< select name=“name”  >< /select >表示（  ）。
+
+A 创建表格
+B 创建一个滚动菜单
+C 设置每个表单项的内容
+D 创建一个下拉菜单
+参考答案： D
+
+单选题
+在HTML上，将表单中INPUT元素的TYPE属性值设置为（ ）时，用于创建重置按钮。
+
+A reset
+B set
+C button
+D image
+参考答案： A
+
+单选题
+以下是行内元素的是（）
+
+A span
+B input
+C ul
+D p
+参考答案： A
+
+单选题
+下列(  )属性用于控制文本框最大字符数.
+
+A < input type="text" name="20" >
+B < input type="text" maxlength="20" >
+C < input type="text" class="20" >
+D < input type="text" size="20" >
+参考答案： B
+
+单选题
+在页面中看不见的元素是哪种（ ）
+
+A < input type=”password” >
+B < input type=”radio” >
+C < input type=”hidden” >
+D < input type=”reset” >
+参考答案： C
+
+单选题
+对于标签< input type=* />，如果希望实现密码框效果，*值是（ ）。
+
+A hiddetn
+B text
+C password
+D submit
+参考答案： C
+
+单选题
+在HTML中，以下(  )创建一个隐藏域。
+
+A < input type="hidden" name="user" value="111" >
+B < input name="hidden" value="hidden" text="111" >
+C < input name="hidden" value="111" >
+D < input name="user" text="111" >
+参考答案： A
+
+单选题
+要使表单元素（如文本框）在预览时处于不可编辑状态，显灰色，要在input中加( )属性。
+
+A selected
+B disabled
+C type
+D checked
+参考答案： B
+
+单选题
+在html中,下列(  )可以在表单中创建一个初始状态被选中的复选框.(选择一项)
+
+A < input type="radio" name="agree" value="y" selected="selected" />同意
+B < input type="checkbox" name="agree" value="y" selected="selected" />同意
+C < input type="radio" name="agree" value="y" checked="checked" />同意
+D < input type="checkbox" name="agree" value="y" checked="checked" />同意
+参考答案： D
+
+单选题
+在 HTML中,下面 (    )属性用于设置表单要提交的地址。
+
+A name
+B method
+C action
+D id
+参考答案： C
+
+单选题
+实现下拉列表框，要用到一下哪两个标签（ ）   
+
+A input和select 
+B select和option
+C fieldset和option
+D radio和option
+参考答案： B
+
+单选题
+在HTML中,关于表单提交方式说法错误的是(  )
+
+A action属性用来设置表单的提交方式
+B 表单提交有get和post两种方式
+C post比get方式安全
+D post提交数据不会显示在地址栏，而get会显示
+参考答案： A
+
+单选题
+阅读以下代码段，则可知（  ）。< input type="text" name="textfield" >< input type="radio" name="radio" value="女" > <  input type="checkbox" name="checkbox" value="checkbox"  > < input type="file" name="file"  > 
+
+A 上面代码表示的表单元素类型分别是：文本框、单选按钮、复选框、文件域
+B 上面代码表示的表单元素类型分别是：文本框、复选框、单选按钮、文件域
+C 上面代码表示的表单元素类型分别是：密码框、多选按钮、复选框、文件域
+D 上面代码表示的表单元素类型分别是：文本框、单选按钮、下拉列表框、文件域
+参考答案： A
+
+单选题
+要在表单中创建一个多行文本输入框，初始值为：这是一个多行文本框。下面语句正确的是()
+
+A < textarea name="text1" value="这是一个多行文本框" >
+B < input type=" text" value=" 这是一个多行文本框" name=” name="text1" />
+C < input type=”textarea” value=” 这是一个多行文本框” name=”text1” />
+D < textarea name=”text1”cols=”20” rows=”5” >这是一个多行文本框< /textarea >
+参考答案： D
+
+单选题
+要使单选框或者复选框默认为已经选定，要在input标签中加( )属性。
+
+A selected
+B disabled
+C type
+D checked
+参考答案： D
+
+单选题
+表格中的每个行都要独立使用( )标签设计
+A tr
+B td
+C th
+D table
+参考答案： A
+
+单选题
+如果要为表格中某一类单元格设置相同的样式，可以用（ ）
+
+A 标记名选择符
+B ID选择符
+C 类选择符
+D 伪类选择符
+参考答案： C
+
+单选题
+表格行中的每个数据列都要独立使用( )标签设计
+A tr
+B td
+C th
+D table
+参考答案： B
+
+单选题
+表格中vertical-align样式属性可能的取值是（ ）
+
+A baseline
+B bottom
+C middle
+D 以上都可以
+参考答案： D
+
+单选题
+下列表格样式属性，用于边框合并的是（ ）
+
+A table-layout
+B border-collapse
+C border-spacing
+D padding
+参考答案： B
+
+单选题
+用于设置表格单元格水平对齐方式的样式属性是（ ）
+A width
+B height
+C text-align
+D vertical-align
+参考答案： C
+
+单选题
+表格边框属性border默认的值是（ ）
+A 0
+B 1
+C 2
+D 3
+参考答案： A
+
+单选题
+一般我们在页面中进行局部排版可以使用（ ）
+A ul
+B table
+C ol
+D form
+参考答案： B
+
+单选题
+表格的表头,又叫标题列，使用 ( )标签进行定义
+A tr
+B td
+C th
+D table
+参考答案： C
+
+单选题
+我们如果要设计跨行表格，可以为表格中的td标签添加（ ）
+A tablespan
+B rowspan
+C colspan
+D span
+参考答案： B
+
+单选题
+我们如果要调整html表头的高度，需要修改它的（ ）的（ ）属性
+A table width
+B table height
+C th width
+D th height
+参考答案： D
+
+单选题
+用于设置表格单元格竖直对齐方式的样式属性是（ ）
+A width
+B height
+C text-align
+D vertical-align
+参考答案： D
+
+单选题
+表格标题< caption >
+
+标记用于定义（ ）
+A 表头
+B 表格主体
+C 表尾
+D 表格前的大标题
+参考答案： D
+
+单选题
+以下标签中可以不包含< tr >标记的是（ )
+
+A thead
+B tbody
+C tfoot
+D table
+参考答案： C
+
+单选题
+以下哪一项是vertical-align所不能设置的？（ ）
+A 顶部对齐
+B 底部对齐
+C 居中对齐
+D 左对齐
+参考答案： D
+
+单选题
+我们要设置表格单元格的内填充值为上下10px,左右15px的方法是（ ）
+A padding:10px 15px
+B margin:10px 15px
+C margin:15px 10px
+D padding:15px 10px
+参考答案： A
+
+单选题
+如果要为表格中某一个单元格设置某种样式，可以用（ ）
+
+A 标记名选择符
+B ID选择符
+C 包含选择符
+D 伪类选择符
+参考答案： B
+
+单选题
+下列表格标记中有且只能有一个的标记是（ ）
+
+A < tr >
+B < td >
+C < caption >
+D < th >
+参考答案： C
+
+单选题
+在html中，我们一般使用下列哪种标签绘制表格？（ ）
+A ul
+B table
+C ol
+D form
+参考答案： B
+
+单选题
+表格标记align属性可能的取值是（ ）
+A left
+B center
+C right
+D 以上都可以
+参考答案： D
+
+单选题
+我们如果要设计跨列表格，可以为表格中的td标签添加（ ）
+A tablespan
+B rowspan
+C colspan
+D span
+参考答案： C
